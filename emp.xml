@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee employeeId="1">
+    <address>
+        <addressType>Permamnet</addressType>
+        <city>Kolkata</city>
+        <state>WB</state>
+        <zipCode>711303</zipCode>
+    </address>
+    <address>
+        <addressType>Temporary</addressType>
+        <city>Hyderabad</city>
+        <state>Telangana</state>
+        <zipCode>54303</zipCode>
+    </address>
+    <employeeName>Chanky</employeeName>
+    <employeeSalary>12500</employeeSalary>
+</employee>

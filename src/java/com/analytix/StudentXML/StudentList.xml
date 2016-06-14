@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<studentList>
+    <student id="100">
+        <branch>Mallick\</branch>
+        <studentID>100</studentID>
+        <studentName>Masaddat</studentName>
+    </student>
+    <student id="2">
+        <branch>MCA</branch>
+        <studentID>2</studentID>
+        <studentName>bijay</studentName>
+    </student>
+    <student id="3">
+        <branch>Acting</branch>
+        <studentID>3</studentID>
+        <studentName>SRK</studentName>
+    </student>
+</studentList>
